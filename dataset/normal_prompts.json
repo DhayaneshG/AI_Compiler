@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "Build a hospital management system with doctors, patients, appointments and admin dashboard"
+    },
+    {
+        "id": 2,
+        "prompt": "Build a customer relationship management system with leads, contacts, sales pipeline and analytics"
+    },
+    {
+        "id": 3,
+        "prompt": "Build an inventory management system with products, suppliers, stock tracking and reports"
+    },
+    {
+        "id": 4,
+        "prompt": "Build a school management portal with students, teachers, courses and attendance"
+    },
+    {
+        "id": 5,
+        "prompt": "Build an e-commerce platform with products, cart, orders and payment processing"
+    },
+    {
+        "id": 6,
+        "prompt": "Build a food delivery application with restaurants, menus, orders and delivery tracking"
+    },
+    {
+        "id": 7,
+        "prompt": "Build a hotel booking system with rooms, reservations, customers and payments"
+    },
+    {
+        "id": 8,
+        "prompt": "Build a library management system with books, members, borrowing and returns"
+    },
+    {
+        "id": 9,
+        "prompt": "Build a job portal with employers, candidates, applications and job listings"
+    },
+    {
+        "id": 10,
+        "prompt": "Build a project management tool with projects, tasks, teams and progress tracking"
+    }
+]

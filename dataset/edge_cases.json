@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "prompt": "Build an application with no registered users"
+    },
+    {
+        "id": 2,
+        "prompt": "Build a platform supporting anonymous users only"
+    },
+    {
+        "id": 3,
+        "prompt": "Build a hospital management system without appointments"
+    },
+    {
+        "id": 4,
+        "prompt": "Build a CRM with 50 different user roles"
+    },
+    {
+        "id": 5,
+        "prompt": "Build an inventory system with no database"
+    },
+    {
+        "id": 6,
+        "prompt": "Build an application where every user is an admin"
+    },
+    {
+        "id": 7,
+        "prompt": "Build a social media platform with millions of users"
+    },
+    {
+        "id": 8,
+        "prompt": "Build a banking application with strict role-based permissions"
+    },
+    {
+        "id": 9,
+        "prompt": "Build a healthcare system with doctors who can only access their own patients"
+    },
+    {
+        "id": 10,
+        "prompt": "Build a multi-tenant SaaS platform with separate organizations and permissions"
+    }
+]
